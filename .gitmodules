@@ -46,3 +46,6 @@
 [submodule "Botpack/ChadGPT"]
 	path = Botpack/ChadGPT
 	url = https://github.com/thecosmicskye/ChadGPT.git
+[submodule "Botpack/Ducky"]
+	path = Botpack/Ducky
+	url = https://github.com/bccessnadev/RLBot-Ducky.git
